@@ -1,7 +1,5 @@
 ﻿using EdjCase.JsonRpc.Router;
 using EdjCase.JsonRpc.Router.Abstractions;
-using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
 using TestJsonRpc.Services;
 
 namespace TestJsonRpc.Controllers
